@@ -1,9 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import json
-from matplotlib import style
+#from matplotlib import style
 import csv
-style.use("ggplot")
+#style.use("ggplot")
 
 from sklearn.cluster import KMeans
 count=0
@@ -95,11 +95,17 @@ for j in range(15,40):
        plt.plot(X[i][0],X[i][1],colors[labels[i]],markersize=10)
 
     plt.scatter(centroid[:,0],centroid[:,1], marker = "x", s=150, linewidths = 5, zorder =10)
-    plt.savefig("C:\Users\shubh\PycharmProjects\User_engagement\Non_video_cluster_plot\cluster_6_"+str(j)+".png")
-    plt.show()
+    #plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/Non_video_cluster_plot/cluster_6_"+str(j)+".png")
+    #plt.show()
     plt.clf()
 for i in range(15,40):
     print centroid_set[i-15]
+    centroid_val=[]
+    for index in range(0,6):
+        centroid_val.append((float)(centroid_set[i-15][index][0]+centroid_set[i-15][index][1])*100.0)
+    with open('mean_non_video.csv', 'a') as file:
+        csv_writer = csv.writer(file)
+        csv_writer.writerow(centroid_val)
     for j in range(0,6):
         plt.plot(centroid_set[i-15][j][0],centroid_set[i-15][j][1],colors[j],markersize=10)
 plt.savefig('Non_video_centroid.png')
