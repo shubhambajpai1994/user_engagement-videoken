@@ -2,9 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import json
 import datetime
-from matplotlib import style
+#from matplotlib import style
 import csv
-style.use("ggplot")
+#style.use("ggplot")
 
 from sklearn.cluster import KMeans
 count=0
