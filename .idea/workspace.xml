@@ -2,72 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f9f3e90-f4c3-49ad-8b14-a3af3e5b3e9b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_plot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_plot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_plot1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data_revise.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data_revise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data_revise.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data_revise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_plot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_plot1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_plot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_plot1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_plot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_plot1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_start_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_start_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_start_plot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_start_plot1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_submit_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_submit_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_submit_plot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_submit_plot1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract_revise.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract_revise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_user_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_user_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract_revise.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract_revise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/user_id_daywise_timespent.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/user_id_daywise_timespent.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/userid_timespent.json" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/userid_timespent.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data_clean.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data_clean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_time_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_time_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_watched.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_watched.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_clean/extract_user_id.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_clean/extract_user_id.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_clean/readme" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_clean/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_clean/teest3.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_clean/teest3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_clean/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_clean/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_clean/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_clean/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_clean/user_data_prep.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_clean/user_data_prep.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_clean/user_id.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_clean/user_id.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_clean/users.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_clean/users.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/Non_video_centroid.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/Non_video_centroid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/centroid.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/centroid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/cluster_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/cluster_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/cluster_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/cluster_4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/cluster_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/cluster_5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/cluster_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/cluster_6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/test2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,19 +19,17 @@
     <SUITE FILE_PATH="coverage/user_engagement_videoken$discussion_data.coverage" NAME="discussion_data Coverage Results" MODIFIED="1529956523609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data_revise__1_.coverage" NAME="assignment_data_revise (1) Coverage Results" MODIFIED="1529955944527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$discussion_data_revise.coverage" NAME="discussion_data_revise Coverage Results" MODIFIED="1529956988214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
+    <SUITE FILE_PATH="coverage/User_Engagement$assignment_data_revise.coverage" NAME="assignment_data_revise Coverage Results" MODIFIED="1530002557772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$mmtoc_clicks_revise.coverage" NAME="mmtoc_clicks_revise Coverage Results" MODIFIED="1529957446344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data.coverage" NAME="assignment_data Coverage Results" MODIFIED="1529956232930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mmtoc_clicks_revise.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py">
+      <file leaf-file-name="assignment_data_revise.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data_revise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -178,7 +112,20 @@
               <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
               <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="data_clean" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="data_processing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mmtoc_clicks_revise">
+  <component name="RunManager" selected="Python.assignment_data_revise">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="user_engagement-videoken" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,7 +195,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment_data_revise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="user_engagement-videoken" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,7 +208,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data_revise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,19 +292,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.assignment_data" />
       <item itemvalue="Python.discussion_data" />
       <item itemvalue="Python.discussion_data_revise" />
       <item itemvalue="Python.mmtoc_clicks" />
       <item itemvalue="Python.mmtoc_clicks_revise" />
+      <item itemvalue="Python.assignment_data_revise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment_data_revise" />
         <item itemvalue="Python.mmtoc_clicks_revise" />
         <item itemvalue="Python.mmtoc_clicks" />
         <item itemvalue="Python.discussion_data_revise" />
         <item itemvalue="Python.discussion_data" />
-        <item itemvalue="Python.assignment_data" />
       </list>
     </recent_temporary>
   </component>
@@ -375,19 +322,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2912736" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2912736" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16796875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14930555" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.37109375" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.37083334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -438,13 +386,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment_plot1/1083.png" />
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="60" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -587,11 +528,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+        <state relative-caret-position="531">
+          <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data_revise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
         </state>
       </provider>
     </entry>
