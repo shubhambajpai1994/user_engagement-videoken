@@ -8,7 +8,7 @@ style.use("ggplot")
 
 from sklearn.cluster import KMeans
 count=0
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/video_process/user_id_daywise_timespent.json") as json_data:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/video_process/user_id_daywise_timespent.json") as json_data:
     x = json.load(json_data)
     user_data = {}
     max_videos={}
@@ -55,7 +55,7 @@ for change_data in sorted_videos:
     video_values.append(change_data)
 #print video_values[13][16][1]
 assignment=[]
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/assignment/Assignment_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/assignment/Assignment_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowa in csvReader:
         count+=1
@@ -65,7 +65,7 @@ with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction
         assignment.append(a)
         #print assignment
 phrase_cloud = []
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowpc in csvReader:
         a = []
@@ -74,7 +74,7 @@ with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction
         phrase_cloud.append(a)
         #print phrase_cloud
 discussion = []
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/discussion/discussion_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/discussion/discussion_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowd in csvReader:
         a = []
@@ -83,7 +83,7 @@ with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction
             discussion.append(a)
         #print discussion
 mmtoc = []
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowm in csvReader:
         a = []
@@ -92,7 +92,7 @@ with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction
         mmtoc.append(a)
         #print mmtoc
 quiz_start = []
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowqs in csvReader:
         a = []
@@ -101,7 +101,7 @@ with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction
             quiz_start.append(a)
         #print quiz_start
 quiz_submit = []
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowq in csvReader:
         a = []
@@ -137,6 +137,9 @@ for j in range(15, 40):
 
     #print (centroid)
     centroid_set[j-15]=centroid
+    with open('Cluster_data.csv', 'a') as file1:
+        csv_writer = csv.writer(file1)
+        csv_writer.writerow(centroid_set[j-15])
    # print(labels)
 
     colors = ["y.", "r.", "g.", "b.", "m.", "k."]
@@ -147,7 +150,7 @@ for j in range(15, 40):
        plt.plot(X[i][0], X[i][1], colors[labels[i]], markersize=10)
 
     plt.scatter(centroid[:, 0],centroid[:, 1], marker="x", s=150, linewidths=5, zorder=10)
-    plt.savefig("C:\Users\shubh\PycharmProjects\User_engagement\cluster_plot\cluster_6_"+str(j)+".png")
+    plt.savefig('C:\\Users\\shubh\\PycharmProjects\\User_engagement\\cluster_plot\\cluster_6_' + str(j) + ".png")
 
     plt.title('6 Means Clustering (Users: %d)' % labels.size)
     plt.show()

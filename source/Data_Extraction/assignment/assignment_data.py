@@ -8,11 +8,11 @@ import matplotlib.pyplot as plt
 def extract_Assignment():
     print "Assignments"
     user_wise_data = {}
-    for file in os.listdir("C:/Users/shubh/PycharmProjects/User_Engagement/user_file/"):
+    for file in os.listdir("/Users/shubham.bajpai/Documents/User_Engagement/user_file/"):
             Assignment_clicks = {}
             for i in range(15, 40):
                 Assignment_clicks[i]=0
-            with open("C:/Users/shubh/PycharmProjects/User_Engagement/user_file/" + file, 'r') as df:
+            with open("/Users/shubham.bajpai/Documents/User_Engagement/user_file/" + file, 'r') as df:
                 for l in df.readlines():
                     d = json.loads(l)
                     if d['user_action'] and "Assignments" in d['user_action']:
@@ -48,13 +48,13 @@ def save_Assignment_data():
             csv_writer.writerow(count)
         plt.plot(index, count)
         #plt.show()
-        plt.savefig("C:/Users/shubh/PycharmProjects/User_Engagement/Assignment_plot/"+usr+".png")
+        plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/Assignment_plot/"+usr+".png")
         plt.clf()
     for user in Assignment_clicks:
         index = Assignment_clicks[user].keys()
         count = Assignment_clicks[user].values()
         plt.plot(index, count)
-    plt.savefig("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/assignment/Assignment_plot.png");
+    plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/assignment/Assignment_plot.png");
     plt.show();
 
 save_Assignment_data()

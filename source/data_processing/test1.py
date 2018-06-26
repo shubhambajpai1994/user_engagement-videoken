@@ -15,7 +15,7 @@ from sklearn.cluster import AgglomerativeClustering
 
 # #############################################################################
 count=0
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/data_clean/userid_timespent.json") as json_data:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/data_clean/userid_timespent.json") as json_data:
     x = json.load(json_data)
     video = []
     max_videos = 0.0
@@ -41,7 +41,7 @@ for change_data in video:
     change_data[1] = change_data[1]/max_videos
     change_data[2] = change_data[2] / max_times
 assignment=[]
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/assignment/Assignment_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/assignment/Assignment_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowa in csvReader:
         count+=1
@@ -51,7 +51,7 @@ with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction
         assignment.append(a)
         #print assignment
 phrase_cloud = []
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowpc in csvReader:
         a = []
@@ -60,7 +60,7 @@ with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction
         phrase_cloud.append(a)
         #print phrase_cloud
 discussion = []
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/discussion/discussion_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/discussion/discussion_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowd in csvReader:
         a = []
@@ -69,7 +69,7 @@ with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction
             discussion.append(a)
         #print discussion
 mmtoc = []
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowm in csvReader:
         a = []
@@ -78,7 +78,7 @@ with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction
         mmtoc.append(a)
         #print mmtoc
 quiz_start = []
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowqs in csvReader:
         a = []
@@ -87,7 +87,7 @@ with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction
             quiz_start.append(a)
         #print quiz_start
 quiz_submit = []
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv") as csvDataFile:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv") as csvDataFile:
     csvReader = csv.reader(csvDataFile)
     for rowq in csvReader:
         a = []

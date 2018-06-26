@@ -1,6 +1,6 @@
 import datetime
 import json
-with open("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/video_process/user_id_daywise_timespent.json") as json_data:
+with open("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/video_process/user_id_daywise_timespent.json") as json_data:
     x = json.load(json_data)
     user_data = {}
     max_videos={}
@@ -45,5 +45,5 @@ for change_data in sorted_videos:
         change_data[i][0] = change_data[i][0]/max_videos[i]
         change_data[i][1] = change_data[i][1] / max_time[i]
     video_values.append(change_data)
-print video_values
+print(video_values)
 

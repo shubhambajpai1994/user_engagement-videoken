@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 def user_video_data():
     # videos_played= [[]]
     with open(
-            "C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/video_process/user_id_daywise_timespent.json") as json_data:
+            "/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/video_process/user_id_daywise_timespent.json") as json_data:
         x = json.load(json_data)
         user_data = {}
         max_videos = {}
@@ -58,7 +58,7 @@ def user_video_data():
                 value.append(0)
         plt.plot(key, value)
         # plt.show()
-        plt.savefig("C:/Users/shubh/PycharmProjects/User_Engagement/video_watched_plot/" + users + ".png")
+        plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/video_watched_plot/" + users + ".png")
         plt.clf()
     for users in Z1:
         key = user_data[users].keys()
@@ -72,7 +72,7 @@ def user_video_data():
                 value.append(0)
         plt.plot(key, value)
         # plt.show()
-        plt.savefig("C:/Users/shubh/PycharmProjects/User_Engagement/video_time_plot/" + users + ".png")
+        plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/video_time_plot/" + users + ".png")
         plt.clf()
     for users in Z1:
         key=user_data[users].keys()

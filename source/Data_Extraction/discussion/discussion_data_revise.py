@@ -10,11 +10,11 @@ def extract_discussion():
     user_wise_data = {}
     global max_week
     max_week = 0.0
-    for file in os.listdir("C:/Users/shubh/PycharmProjects/User_Engagement/user_file/"):
+    for file in os.listdir("/Users/shubham.bajpai/Documents/User_Engagement/user_file/"):
             discussion_clicks = {}
             for i in range(15, 40):
                 discussion_clicks[i]=0.0
-            with open("C:/Users/shubh/PycharmProjects/User_Engagement/user_file/" + file, 'r') as df:
+            with open("/Users/shubham.bajpai/Documents/User_Engagement/user_file/" + file, 'r') as df:
                 for l in df.readlines():
                     d = json.loads(l)
                     if d['user_action'] and "Discussions" in d['user_action']:
@@ -54,13 +54,13 @@ def save_discussion_data():
             csv_writer.writerow(count)
         plt.plot(index, count)
         #plt.show()
-        plt.savefig("C:/Users/shubh/PycharmProjects/User_Engagement/discussion_plot1/"+usr+".png")
+        plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/discussion_plot1/"+usr+".png")
         plt.clf()
     for user in discussion_clicks:
         index = discussion_clicks[user].keys()
         count = discussion_clicks[user].values()
         plt.plot(index, count)
-    plt.savefig("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/discussion/discussion_plot1.png");
+    plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/discussion/discussion_plot1.png");
     plt.show();
 
 save_discussion_data()

@@ -12,11 +12,11 @@ def extract_quiz_start():
     user_wise_quiz_start_data = {}
     global max_week
     max_week = 0.0
-    for file in os.listdir("C:/Users/shubh/PycharmProjects/User_Engagement/user_file/"):
+    for file in os.listdir("/Users/shubham.bajpai/Documents/User_Engagement/user_file/"):
             quiz_start_data = {}
             for i in range(15, 40):
                 quiz_start_data[i]=0.0
-            with open("C:/Users/shubh/PycharmProjects/User_Engagement/user_file/" + file, 'r') as df:
+            with open("/Users/shubham.bajpai/Documents/User_Engagement/user_file/" + file, 'r') as df:
                 for l in df.readlines():
                     d = json.loads(l)
                     if d['user_action'] and "starts quiz" in d['user_action']:
@@ -59,13 +59,13 @@ def save_quiz_start_data():
             csv_writer.writerow(count)
         plt.plot(index, count)
         #plt.show()
-        plt.savefig("C:/Users/shubh/PycharmProjects/User_Engagement/quiz_start_plot1/"+usr+".png")
+        plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/quiz_start_plot1/"+usr+".png")
         plt.clf()
     for user in quiz_start_count:
         index = quiz_start_count[user].keys()
         count = quiz_start_count[user].values()
         plt.plot(index, count)
-    plt.savefig("C:/Users/shubh/PycharmProjects/User_Engagement/source/Data_Extraction/quiz_data_extract/Quiz_start_plot1.png");
+    plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/source/Data_Extraction/quiz_data_extract/Quiz_start_plot1.png");
     plt.show();
 
 save_quiz_start_data()
