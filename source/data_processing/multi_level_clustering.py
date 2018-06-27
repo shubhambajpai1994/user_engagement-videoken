@@ -1,10 +1,10 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import json
-#from matplotlib import style
+from matplotlib import style
 import csv
 import datetime
-#style.use("ggplot")
+style.use("ggplot")
 
 from sklearn.cluster import KMeans
 count=0
@@ -257,4 +257,4 @@ for j in range(15, 40):
                 l5+=1
             else:
                 l6+=1
-        print l1,l2,l3,l4,l5,l6
+        #print l1,l2,l3,l4,l5,l6

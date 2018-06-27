@@ -4,8 +4,8 @@
 # License: BSD 3 clause
 
 print(__doc__)
-#from matplotlib import style
-#style.use("ggplot")
+from matplotlib import style
+
 import time as time
 import numpy as np
 import json
@@ -13,6 +13,8 @@ import datetime
 import csv
 import matplotlib.pyplot as plt
 from sklearn.cluster import AgglomerativeClustering
+style.use("ggplot")
+
 
 # #############################################################################
 count=0
