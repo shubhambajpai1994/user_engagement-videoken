@@ -2,651 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f9f3e90-f4c3-49ad-8b14-a3af3e5b3e9b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/1083.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/1092.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/1100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/1116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/1949.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/1959.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/1972.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/1980.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/2409.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/2623.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/2624.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/2723.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/2724.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/2725.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/2727.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/2728.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/3109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/3446.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/3462.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/3463.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4113.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4274.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4275.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4276.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4277.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4278.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4279.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4312.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4313.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4314.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4315.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4316.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4732.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4734.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4735.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4736.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4737.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4738.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4739.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4740.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4741.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4742.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4743.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4744.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4745.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4746.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4747.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4748.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4749.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4751.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4752.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4753.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4754.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4755.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4757.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4758.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4759.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4760.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4761.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4763.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4764.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4765.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4766.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4767.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4768.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4769.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4770.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4771.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4773.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4774.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4775.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4776.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4778.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4779.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4781.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4782.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4783.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4784.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4785.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4786.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4787.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4788.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4789.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4790.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4791.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4792.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4793.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4794.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4795.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4796.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4797.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4798.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4799.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4800.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4801.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4802.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4804.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4805.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4806.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4808.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4810.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4811.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4812.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4815.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4816.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4817.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4818.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4820.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4822.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4823.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4824.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4825.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4826.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4827.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4828.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4829.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4830.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4831.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4832.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4833.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4834.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4836.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4838.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4840.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4841.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4842.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4843.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4844.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4845.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4846.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4847.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4848.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4849.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4850.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4851.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4852.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4853.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4854.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4855.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4856.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4857.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4858.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4859.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4860.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4861.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4862.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4863.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4864.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4865.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4866.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4867.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4868.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4870.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4871.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4872.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4873.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4874.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4875.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4876.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4877.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4878.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4879.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4880.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4881.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4882.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4883.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4885.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4886.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4887.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4888.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4889.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4891.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4892.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4893.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4894.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4896.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4897.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4899.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4900.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4901.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4902.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4903.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4904.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4905.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4906.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4907.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4908.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4909.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4911.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4912.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4913.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4914.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4915.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4916.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4917.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4918.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4919.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4920.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4921.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4922.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4923.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4924.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4925.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4927.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4928.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4929.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4930.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4931.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4932.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4933.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4934.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4935.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4936.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4937.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4938.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4939.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4940.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4941.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4942.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4943.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4944.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4945.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4946.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4947.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4949.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4950.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4951.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4952.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4954.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4955.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4957.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4958.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4959.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4960.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4961.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4963.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4964.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4965.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4967.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4968.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4969.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4970.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4971.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4972.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4973.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4974.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4975.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4976.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4978.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4979.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4980.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4981.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4982.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4983.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4984.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4985.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4986.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4987.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4988.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4989.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4992.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/4999.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5000.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5027.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5028.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5029.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5032.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5033.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5054.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5068.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5069.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5070.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5071.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5072.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5073.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5074.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5075.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5076.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5077.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5078.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5079.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5080.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5081.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5082.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5083.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5084.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5085.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5086.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5087.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5088.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5089.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5090.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5092.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5093.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5094.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5095.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5096.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5097.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5098.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5099.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5105.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5107.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5113.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5115.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5117.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5118.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5121.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5123.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5124.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5125.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5126.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5127.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5130.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5131.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5132.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5133.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5134.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5136.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5137.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5138.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5139.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5140.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5142.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5143.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5145.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5146.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5149.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5151.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5153.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5154.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5155.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5156.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5157.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5159.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5160.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5161.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5166.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5169.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5170.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5172.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5173.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5174.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5177.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5178.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5181.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5182.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5183.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5184.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5187.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5189.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5191.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5193.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5195.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5196.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5198.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5201.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5202.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5203.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5205.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5206.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5207.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5208.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5209.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5210.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5213.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5214.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5216.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5217.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5219.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5220.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5221.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5222.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5224.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5225.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5226.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5227.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5228.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5229.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5230.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5231.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5232.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5233.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5234.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5236.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5238.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5239.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5243.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5245.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5247.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5248.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5249.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5250.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5251.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5252.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5253.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5255.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5258.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5259.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5260.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5261.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5262.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5263.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5264.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5265.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5267.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5269.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5270.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5271.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5272.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5273.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5274.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5276.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5277.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5278.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5281.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5282.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5283.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5284.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5285.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5286.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5289.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5291.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5292.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5293.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5295.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5296.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5298.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5301.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5302.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5303.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5304.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5305.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5306.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5307.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5308.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5309.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5312.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5313.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5314.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5315.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5316.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5318.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5319.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5320.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5321.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5322.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5323.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5325.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5326.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5328.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5329.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5330.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5332.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5333.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5334.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5335.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5336.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5337.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5338.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5339.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5340.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5342.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5343.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5345.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5348.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5349.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5350.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5351.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5352.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5353.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5354.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5355.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5357.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5358.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5359.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5361.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5362.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5363.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5364.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5365.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5366.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5367.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5368.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5369.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5371.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5372.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5374.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5375.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5378.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5379.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5380.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5384.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5385.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5386.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5387.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5389.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5390.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5393.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5394.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5395.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5398.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5401.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5402.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5403.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5405.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5406.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5407.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5410.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5411.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5412.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5413.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5414.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5415.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5416.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5417.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5419.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5420.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5421.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5422.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5423.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5424.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5425.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5426.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5427.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5428.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5429.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5430.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5431.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5432.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5435.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5436.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5437.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5439.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5440.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5441.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5443.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5444.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5445.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5446.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5447.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5449.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5450.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5451.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5452.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5453.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5454.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5457.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5458.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5459.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5460.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5461.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5462.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5463.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5465.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5467.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5468.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5470.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5471.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5472.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5474.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5475.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5476.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5477.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5480.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5483.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5484.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5485.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5486.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5487.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5488.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5489.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5490.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5493.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5494.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5495.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5496.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5501.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5502.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5503.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5504.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5505.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5506.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5507.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5508.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5509.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5511.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5513.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5514.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5515.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5517.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5519.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5520.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_plot/5522.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_with_constraint_clustering.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_without_constraint_clustering.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_with_constraint_clustering.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_without_constraint_clustering.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -656,25 +17,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/User_Engagement$quiz_start_extract_revise.coverage" NAME="quiz_start_extract_revise Coverage Results" MODIFIED="1530037731469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data_revise.coverage" NAME="assignment_data_revise Coverage Results" MODIFIED="1529955632401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
+    <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data_revise__1_.coverage" NAME="assignment_data_revise (1) Coverage Results" MODIFIED="1529955944527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
+    <SUITE FILE_PATH="coverage/User_Engagement$video_data_clean.coverage" NAME="video_data_clean Coverage Results" MODIFIED="1530033661710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/video_process" />
+    <SUITE FILE_PATH="coverage/User_Engagement$quiz_submit_extract_revise.coverage" NAME="quiz_submit_extract_revise Coverage Results" MODIFIED="1530037735146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract" />
+    <SUITE FILE_PATH="coverage/User_Engagement$hierarchial_clustering.coverage" NAME="hierarchial_clustering Coverage Results" MODIFIED="1530081995102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
+    <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data.coverage" NAME="assignment_data Coverage Results" MODIFIED="1529956232930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
+    <SUITE FILE_PATH="coverage/User_Engagement$mmtoc_clicks_revise.coverage" NAME="mmtoc_clicks_revise Coverage Results" MODIFIED="1530037753484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
+    <SUITE FILE_PATH="coverage/User_Engagement$clustering.coverage" NAME="clustering Coverage Results" MODIFIED="1530041598786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
+    <SUITE FILE_PATH="coverage/User_Engagement$discussion_data_revise.coverage" NAME="discussion_data_revise Coverage Results" MODIFIED="1530037765421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
+    <SUITE FILE_PATH="coverage/User_Engagement$multi_level_clustering.coverage" NAME="multi_level_clustering Coverage Results" MODIFIED="1530082770330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$mmtoc_clicks.coverage" NAME="mmtoc_clicks Coverage Results" MODIFIED="1529957289736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
+    <SUITE FILE_PATH="coverage/User_Engagement$video_data.coverage" NAME="video_data Coverage Results" MODIFIED="1530037367637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/video_process" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1529955625479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$discussion_data.coverage" NAME="discussion_data Coverage Results" MODIFIED="1529956523609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
-    <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data_revise__1_.coverage" NAME="assignment_data_revise (1) Coverage Results" MODIFIED="1529955944527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$discussion_data_revise.coverage" NAME="discussion_data_revise Coverage Results" MODIFIED="1529956988214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
+    <SUITE FILE_PATH="coverage/User_Engagement$discussion_data.coverage" NAME="discussion_data Coverage Results" MODIFIED="1530032804014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
+    <SUITE FILE_PATH="coverage/User_Engagement$assignment_data_revise.coverage" NAME="assignment_data_revise Coverage Results" MODIFIED="1530037300404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
+    <SUITE FILE_PATH="coverage/User_Engagement$non_video_based_clustering.coverage" NAME="non_video_based_clustering Coverage Results" MODIFIED="1530039125170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$mmtoc_clicks_revise.coverage" NAME="mmtoc_clicks_revise Coverage Results" MODIFIED="1529957446344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
-    <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data.coverage" NAME="assignment_data Coverage Results" MODIFIED="1529956232930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
+    <SUITE FILE_PATH="coverage/User_Engagement$phrase_clicks_revise.coverage" NAME="phrase_clicks_revise Coverage Results" MODIFIED="1530037932399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mmtoc_clicks_revise.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py">
+      <file leaf-file-name="multi_level_clustering.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/data_processing/multi_level_clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+            <state relative-caret-position="157">
+              <caret line="206" column="50" lean-forward="true" selection-start-line="206" selection-start-column="50" selection-end-line="206" selection-end-column="50" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hierarchial_clustering.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="152" column="33" lean-forward="true" selection-start-line="152" selection-start-column="33" selection-end-line="152" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -684,6 +67,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>C:/Users/shubh/PycharmProjects/</find>
+      <find>matplot</find>
+      <find>style</find>
+      <find>1083</find>
+      <find>e</find>
+      <find>-</find>
+      <find>print</find>
+      <find>count</find>
     </findStrings>
     <replaceStrings>
       <replace>$PROJECT_DIR$/../</replace>
@@ -699,25 +89,30 @@
         <option value="$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data_revise.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data.py" />
-        <option value="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data_revise.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks.py" />
-        <option value="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract_revise.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract_revise.py" />
-        <option value="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data_clean.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/video_process/test.py" />
-        <option value="$PROJECT_DIR$/source/data_processing/clustering.py" />
-        <option value="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" />
-        <option value="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" />
-        <option value="$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py" />
         <option value="$PROJECT_DIR$/source/data_processing/test.py" />
         <option value="$PROJECT_DIR$/source/data_processing/test1.py" />
         <option value="$PROJECT_DIR$/source/data_processing/test2.py" />
+        <option value="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data_revise.py" />
+        <option value="$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py" />
+        <option value="$PROJECT_DIR$/source/data_processing/mean_non_video.csv" />
+        <option value="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv" />
+        <option value="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py" />
+        <option value="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py" />
+        <option value="$PROJECT_DIR$/source/data_processing/clustering.py" />
+        <option value="$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_clustering.csv" />
+        <option value="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" />
+        <option value="$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_without_constraint_clustering.csv" />
+        <option value="$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_without_constraint_clustering.csv" />
+        <option value="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" />
       </list>
     </option>
   </component>
@@ -730,7 +125,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -740,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -757,22 +151,67 @@
               <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
               <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="data_clean" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
+              <item name="discussion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
+              <item name="mmtoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
+              <item name="phrase_cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
+              <item name="quiz_data_extract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="data_processing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/data_processing" />
+      <recent name="$PROJECT_DIR$/source/Data_Extraction/video_process" />
+      <recent name="$PROJECT_DIR$/video_watched_plot" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -788,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mmtoc_clicks_revise">
+  <component name="RunManager" selected="Python.multi_level_clustering">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="user_engagement-videoken" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -827,7 +266,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="assignment_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="user_engagement-videoken" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -835,18 +274,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/venv/User_Engagement/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/Data_Extraction/assignment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/data_processing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/data_processing/clustering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="discussion_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hierarchial_clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="user_engagement-videoken" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -854,18 +293,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/venv/User_Engagement/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/Data_Extraction/discussion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/data_processing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="discussion_data_revise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="multi_level_clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="user_engagement-videoken" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -873,18 +312,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/venv/User_Engagement/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/Data_Extraction/discussion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/data_processing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data_revise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="mmtoc_clicks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="non_video_based_clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="user_engagement-videoken" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -892,18 +331,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/venv/User_Engagement/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/data_processing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="mmtoc_clicks_revise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="phrase_clicks_revise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="user_engagement-videoken" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -911,12 +350,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/venv/User_Engagement/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -924,19 +363,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.assignment_data" />
-      <item itemvalue="Python.discussion_data" />
-      <item itemvalue="Python.discussion_data_revise" />
-      <item itemvalue="Python.mmtoc_clicks" />
-      <item itemvalue="Python.mmtoc_clicks_revise" />
+      <item itemvalue="Python.phrase_clicks_revise" />
+      <item itemvalue="Python.clustering" />
+      <item itemvalue="Python.non_video_based_clustering" />
+      <item itemvalue="Python.hierarchial_clustering" />
+      <item itemvalue="Python.multi_level_clustering" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mmtoc_clicks_revise" />
-        <item itemvalue="Python.mmtoc_clicks" />
-        <item itemvalue="Python.discussion_data_revise" />
-        <item itemvalue="Python.discussion_data" />
-        <item itemvalue="Python.assignment_data" />
+        <item itemvalue="Python.multi_level_clustering" />
+        <item itemvalue="Python.hierarchial_clustering" />
+        <item itemvalue="Python.clustering" />
+        <item itemvalue="Python.non_video_based_clustering" />
+        <item itemvalue="Python.phrase_clicks_revise" />
       </list>
     </recent_temporary>
   </component>
@@ -954,31 +393,68 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2912736" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22860962" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.1485849" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32900944" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14930555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2640625" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.37109375" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.4171875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23472223" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.37083334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.1485849" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2912736" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32900944" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2912736" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23472223" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32900944" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" visible="true" weight="0.37083334" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -988,43 +464,17 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23428" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment_plot1/1083.png" />
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="60" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -1039,24 +489,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="886">
           <caret line="60" column="49" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="961">
-          <caret line="67" column="49" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -1067,59 +503,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="976">
-          <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data_clean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="53" selection-start-line="74" selection-start-column="53" selection-end-line="74" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="43" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/multi_level_clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="103" column="43" selection-start-line="103" selection-start-column="43" selection-end-line="103" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1561">
-          <caret line="111" column="43" selection-start-line="111" selection-start-column="43" selection-end-line="111" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="103" column="43" selection-start-line="103" selection-start-column="43" selection-end-line="103" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -1144,13 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
@@ -1158,19 +538,225 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="733" column="72" lean-forward="true" selection-start-line="733" selection-start-column="72" selection-end-line="733" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="254" column="52" selection-start-line="254" selection-start-column="47" selection-end-line="254" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data_clean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/phrase_cloud_user_data1.csv" />
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.csv" />
+    <entry file="file://$PROJECT_DIR$/source/data_processing/test.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data_revise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract_revise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="47" column="73" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract_revise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data_revise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="183">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+        <state relative-caret-position="171">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_k_mean_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="88" column="18" lean-forward="true" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_k_mean_clustering1.csv" />
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_k_mean_clustering1.csv" />
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_k_mean_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_k_mean_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_clustering.csv" />
+    <entry file="file://$PROJECT_DIR$/source/data_processing/clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="177" column="42" lean-forward="true" selection-start-line="155" selection-start-column="4" selection-end-line="177" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_with_constraint_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_with_constraint_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_without_constraint_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_without_constraint_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="152" column="33" lean-forward="true" selection-start-line="152" selection-start-column="33" selection-end-line="152" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_multi_level_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="65" lean-forward="true" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_multi_level_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/multi_level_clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="206" column="50" lean-forward="true" selection-start-line="206" selection-start-column="50" selection-end-line="206" selection-end-column="50" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

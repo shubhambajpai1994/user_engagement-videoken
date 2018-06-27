@@ -1,10 +1,10 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import json
-from matplotlib import style
+#from matplotlib import style
 import csv
 import datetime
-style.use("ggplot")
+#style.use("ggplot")
 
 from sklearn.cluster import KMeans
 count=0
@@ -151,12 +151,12 @@ for j in range(15, 40):
             if labels[user] == 0:
                 set1.append(week_data[j-15][user])
                 setv1.append(video_week_data[j-15][user])
-
                 #print set1
             else:
                 set2.append(week_data[j-15][user])
                 setv2.append(video_week_data[j-15][user])
         #print float(video_week_data[15][user][0]+video_week_data[15][user][1])
+
         X = np.array(set1)
        # print X
         Y = np.array(set2)
@@ -191,22 +191,48 @@ for j in range(15, 40):
 
         colors = ["y.", "r.", "g."]
         colors1 = ["b.", "m.", "k."]
+        video_val = []
+        non_video_val = []
+        count1 = []
+        for index in range(0, 6):
+            video_val.append(0.0)
+            non_video_val.append(0.0)
+            count1.append(0.0)
+
+
         if X.size>0:
             for i in range(len(X)):
                #print ("coordinate:" , X[i], "label:", labels[i])
                val1=float(setv1[i][0])+float(setv1[i][1])
                val2= float(X[i][0])+float(X[i][1])
+               video_val[labels1[i]] = video_val[labels1[i]] + ((float)(val1) * 1000.0)
+               count1[labels1[i]] += 1.0
+               non_video_val[labels[i]] = non_video_val[labels1[i]] + ((float)(val2) * 1000.0)
                plt.plot(val1, val2, colors[labels1[i]], markersize=10)
         if Y.size>0:
             for i in range(len(Y)):
                #print ("coordinate:" , X[i], "label:", labels[i])
                val1 = float(setv2[i][0]) + float(setv2[i][1])
                val2 = float(Y[i][0]) + float(Y[i][1])
+               video_val[labels2[i]+3] = video_val[labels2[i]+3] + ((float)(val1) * 1000.0)
+               count1[labels2[i]+3] += 1.0
+               non_video_val[labels2[i]+3] = non_video_val[labels2[i]+3] + ((float)(val2) * 1000.0)
                plt.plot(val1, val2, colors1[labels2[i]], markersize=10)
         if X.size>0:
             plt.scatter(centroid1[:, 0], centroid1[:, 1], marker="x", s=150, linewidths=5, zorder=10)
         if Y.size>0:
             plt.scatter(centroid2[:, 0], centroid2[:, 1], marker="x", s=150, linewidths=5, zorder=10)
+
+        for index in range(0, 6):
+            if count1[index] != 0.0:
+                video_val[index] = (video_val[index]) / count1[index]
+                non_video_val[index] = (non_video_val[index]) / count1[index]
+        with open('mean_video_multi_level_clustering.csv', 'a') as file:
+            csv_writer = csv.writer(file)
+            csv_writer.writerow(video_val)
+        with open('mean_non_video_multi_level_clustering.csv', 'a') as file:
+            csv_writer = csv.writer(file)
+            csv_writer.writerow(non_video_val)
         #plt.savefig("C:\Users\shubh\PycharmProjects\User_engagement\multi_level_cluster_plot\cluster_6_"+str(j)+".png")
         plt.title('Multi-Level Clustering (Users: %d)' % labels.size)
         plt.show()
