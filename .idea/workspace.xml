@@ -2,22 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f9f3e90-f4c3-49ad-8b14-a3af3e5b3e9b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_plot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_plot1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_plot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_plot1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_plot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_plot1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_start_plot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_start_plot1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_submit_plot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/Quiz_submit_plot1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_time_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_time_plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_watched.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_watched.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/data_processing/Non_video_centroid.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/Non_video_centroid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/centroid.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/centroid.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/data_processing/clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/mean_non_video.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/phrase_cloud_user_data1.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,34 +29,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/User_Engagement$quiz_start_extract_revise.coverage" NAME="quiz_start_extract_revise Coverage Results" MODIFIED="1530033322818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract" />
+    <SUITE FILE_PATH="coverage/User_Engagement$quiz_start_extract_revise.coverage" NAME="quiz_start_extract_revise Coverage Results" MODIFIED="1530037731469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data_revise.coverage" NAME="assignment_data_revise Coverage Results" MODIFIED="1529955632401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data_revise__1_.coverage" NAME="assignment_data_revise (1) Coverage Results" MODIFIED="1529955944527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
     <SUITE FILE_PATH="coverage/User_Engagement$video_data_clean.coverage" NAME="video_data_clean Coverage Results" MODIFIED="1530033661710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/video_process" />
-    <SUITE FILE_PATH="coverage/User_Engagement$hierarchial_clustering.coverage" NAME="hierarchial_clustering Coverage Results" MODIFIED="1530005308052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
-    <SUITE FILE_PATH="coverage/User_Engagement$quiz_submit_extract_revise.coverage" NAME="quiz_submit_extract_revise Coverage Results" MODIFIED="1530033338741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract" />
+    <SUITE FILE_PATH="coverage/User_Engagement$quiz_submit_extract_revise.coverage" NAME="quiz_submit_extract_revise Coverage Results" MODIFIED="1530037735146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract" />
+    <SUITE FILE_PATH="coverage/User_Engagement$hierarchial_clustering.coverage" NAME="hierarchial_clustering Coverage Results" MODIFIED="1530044246352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data.coverage" NAME="assignment_data Coverage Results" MODIFIED="1529956232930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
-    <SUITE FILE_PATH="coverage/User_Engagement$mmtoc_clicks_revise.coverage" NAME="mmtoc_clicks_revise Coverage Results" MODIFIED="1530033037821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
-    <SUITE FILE_PATH="coverage/User_Engagement$clustering.coverage" NAME="clustering Coverage Results" MODIFIED="1530033197680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
-    <SUITE FILE_PATH="coverage/User_Engagement$discussion_data_revise.coverage" NAME="discussion_data_revise Coverage Results" MODIFIED="1530032886451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
+    <SUITE FILE_PATH="coverage/User_Engagement$mmtoc_clicks_revise.coverage" NAME="mmtoc_clicks_revise Coverage Results" MODIFIED="1530037753484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
+    <SUITE FILE_PATH="coverage/User_Engagement$clustering.coverage" NAME="clustering Coverage Results" MODIFIED="1530041598786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
+    <SUITE FILE_PATH="coverage/User_Engagement$discussion_data_revise.coverage" NAME="discussion_data_revise Coverage Results" MODIFIED="1530037765421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
+    <SUITE FILE_PATH="coverage/User_Engagement$multi_level_clustering.coverage" NAME="multi_level_clustering Coverage Results" MODIFIED="1530044400368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$mmtoc_clicks.coverage" NAME="mmtoc_clicks Coverage Results" MODIFIED="1529957289736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
-    <SUITE FILE_PATH="coverage/User_Engagement$video_data.coverage" NAME="video_data Coverage Results" MODIFIED="1530033479720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/video_process" />
+    <SUITE FILE_PATH="coverage/User_Engagement$video_data.coverage" NAME="video_data Coverage Results" MODIFIED="1530037367637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/video_process" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1529955625479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$discussion_data.coverage" NAME="discussion_data Coverage Results" MODIFIED="1529956523609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$discussion_data_revise.coverage" NAME="discussion_data_revise Coverage Results" MODIFIED="1529956988214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
     <SUITE FILE_PATH="coverage/User_Engagement$discussion_data.coverage" NAME="discussion_data Coverage Results" MODIFIED="1530032804014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
-    <SUITE FILE_PATH="coverage/User_Engagement$assignment_data_revise.coverage" NAME="assignment_data_revise Coverage Results" MODIFIED="1530032825052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
-    <SUITE FILE_PATH="coverage/User_Engagement$non_video_based_clustering.coverage" NAME="non_video_based_clustering Coverage Results" MODIFIED="1530035359327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
+    <SUITE FILE_PATH="coverage/User_Engagement$assignment_data_revise.coverage" NAME="assignment_data_revise Coverage Results" MODIFIED="1530037300404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
+    <SUITE FILE_PATH="coverage/User_Engagement$non_video_based_clustering.coverage" NAME="non_video_based_clustering Coverage Results" MODIFIED="1530039125170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$mmtoc_clicks_revise.coverage" NAME="mmtoc_clicks_revise Coverage Results" MODIFIED="1529957446344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
-    <SUITE FILE_PATH="coverage/User_Engagement$phrase_clicks_revise.coverage" NAME="phrase_clicks_revise Coverage Results" MODIFIED="1530034109561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud" />
+    <SUITE FILE_PATH="coverage/User_Engagement$phrase_clicks_revise.coverage" NAME="phrase_clicks_revise Coverage Results" MODIFIED="1530037932399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="clustering.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/data_processing/clustering.py">
+      <file leaf-file-name="multi_level_clustering.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/data_processing/multi_level_clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="86" column="38" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="38" />
+            <state relative-caret-position="171">
+              <caret line="216" column="50" lean-forward="true" selection-start-line="216" selection-start-column="50" selection-end-line="216" selection-end-column="50" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -62,23 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="non_video_based_clustering.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py">
+      <file leaf-file-name="hierarchial_clustering.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="107" column="41" lean-forward="true" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phrase_clicks_revise.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="57" selection-end-column="38" />
+            <state relative-caret-position="338">
+              <caret line="159" column="68" lean-forward="true" selection-start-line="159" selection-start-column="68" selection-end-line="159" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -91,6 +82,9 @@
       <find>matplot</find>
       <find>style</find>
       <find>1083</find>
+      <find>e</find>
+      <find>-</find>
+      <find>print</find>
     </findStrings>
     <replaceStrings>
       <replace>$PROJECT_DIR$/../</replace>
@@ -109,22 +103,25 @@
         <option value="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks.py" />
-        <option value="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract_revise.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract_revise.py" />
-        <option value="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data_clean.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/video_process/test.py" />
-        <option value="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" />
-        <option value="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" />
         <option value="$PROJECT_DIR$/source/data_processing/test.py" />
         <option value="$PROJECT_DIR$/source/data_processing/test1.py" />
         <option value="$PROJECT_DIR$/source/data_processing/test2.py" />
-        <option value="$PROJECT_DIR$/source/data_processing/clustering.py" />
         <option value="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data_revise.py" />
         <option value="$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py" />
+        <option value="$PROJECT_DIR$/source/data_processing/mean_non_video.csv" />
+        <option value="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv" />
+        <option value="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py" />
+        <option value="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py" />
+        <option value="$PROJECT_DIR$/source/data_processing/clustering.py" />
+        <option value="$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_clustering.csv" />
+        <option value="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" />
+        <option value="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" />
       </list>
     </option>
   </component>
@@ -137,7 +134,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -171,6 +168,27 @@
               <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
+              <item name="discussion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
+              <item name="mmtoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
               <item name="phrase_cloud" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -178,7 +196,7 @@
               <item name="User_Engagement" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="Data_Extraction" type="462c0819:PsiDirectoryNode" />
-              <item name="video_process" type="462c0819:PsiDirectoryNode" />
+              <item name="quiz_data_extract" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="User_Engagement" type="b2602c69:ProjectViewProjectNode" />
@@ -200,6 +218,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/data_processing" />
+      <recent name="$PROJECT_DIR$/source/Data_Extraction/video_process" />
       <recent name="$PROJECT_DIR$/video_watched_plot" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -216,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.non_video_based_clustering">
+  <component name="RunManager" selected="Python.multi_level_clustering">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="user_engagement-videoken" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,6 +270,63 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="user_engagement-videoken" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/venv/User_Engagement/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/data_processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/data_processing/clustering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="hierarchial_clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="user_engagement-videoken" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/venv/User_Engagement/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/data_processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="multi_level_clustering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="user_engagement-videoken" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/venv/User_Engagement/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/data_processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,78 +370,21 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="quiz_submit_extract_revise" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="user_engagement-videoken" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/venv/User_Engagement/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract_revise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="video_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="user_engagement-videoken" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/venv/User_Engagement/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/Data_Extraction/video_process" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="video_data_clean" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="user_engagement-videoken" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/venv/User_Engagement/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/Data_Extraction/video_process" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data_clean.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.quiz_submit_extract_revise" />
-      <item itemvalue="Python.video_data" />
-      <item itemvalue="Python.video_data_clean" />
-      <item itemvalue="Python.non_video_based_clustering" />
       <item itemvalue="Python.phrase_clicks_revise" />
+      <item itemvalue="Python.clustering" />
+      <item itemvalue="Python.non_video_based_clustering" />
+      <item itemvalue="Python.hierarchial_clustering" />
+      <item itemvalue="Python.multi_level_clustering" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multi_level_clustering" />
+        <item itemvalue="Python.hierarchial_clustering" />
+        <item itemvalue="Python.clustering" />
         <item itemvalue="Python.non_video_based_clustering" />
         <item itemvalue="Python.phrase_clicks_revise" />
-        <item itemvalue="Python.video_data_clean" />
-        <item itemvalue="Python.video_data" />
-        <item itemvalue="Python.quiz_submit_extract_revise" />
       </list>
     </recent_temporary>
   </component>
@@ -383,16 +403,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2912736" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2912736" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.1485849" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32900944" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14930555" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23472223" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
@@ -407,6 +426,29 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23472223" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2912736" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="4" visible="true" weight="0.37083334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32900944" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -427,16 +469,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -483,13 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/multi_level_clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="103" column="43" selection-start-line="103" selection-start-column="43" selection-end-line="103" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/data_processing/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1215">
@@ -532,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -546,34 +564,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data1.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data.csv">
@@ -582,55 +573,10 @@
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="48" column="52" lean-forward="true" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="90" column="4" selection-start-line="90" selection-end-line="90" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-541">
-          <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="86" column="38" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data_clean.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="55" column="8" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="57" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -639,13 +585,184 @@
         <state relative-caret-position="-14936" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video.csv">
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19623">
+          <caret line="90" column="4" selection-start-line="90" selection-end-line="90" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/test.csv">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data_revise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="63" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_extract_revise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="47" column="73" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_extract_revise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_data_revise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_clicks_revise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_k_mean_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/data_processing/non_video_based_clustering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="107" column="41" lean-forward="true" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
+        <state relative-caret-position="141">
+          <caret line="88" column="18" lean-forward="true" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_k_mean_clustering1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_k_mean_clustering1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_k_mean_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_k_mean_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_without_constraint_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="177" column="42" lean-forward="true" selection-start-line="155" selection-start-column="4" selection-end-line="177" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_without_constraint_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_with_constraint_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_with_constraint_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="159" column="68" lean-forward="true" selection-start-line="159" selection-start-column="68" selection-end-line="159" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/multi_level_clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="216" column="50" lean-forward="true" selection-start-line="216" selection-start-column="50" selection-end-line="216" selection-end-column="50" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
