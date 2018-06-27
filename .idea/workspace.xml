@@ -3,23 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1f9f3e90-f4c3-49ad-8b14-a3af3e5b3e9b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/assignment/Assignment_user_data1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/discussion/discussion_user_data1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_user_data1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/phrase_cloud/phrase_cloud_user_data1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_start_user_data1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract/quiz_submit_user_data1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_time_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_time_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_watched.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/Data_Extraction/video_process/video_watched.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/Non_video_centroid.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/Non_video_centroid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/centroid.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/centroid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/mean_non_video.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_with_constraint_clustering.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_without_constraint_clustering.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_with_constraint_clustering.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_without_constraint_clustering.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/data_processing/phrase_cloud_user_data1.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,12 +22,12 @@
     <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data_revise__1_.coverage" NAME="assignment_data_revise (1) Coverage Results" MODIFIED="1529955944527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
     <SUITE FILE_PATH="coverage/User_Engagement$video_data_clean.coverage" NAME="video_data_clean Coverage Results" MODIFIED="1530033661710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/video_process" />
     <SUITE FILE_PATH="coverage/User_Engagement$quiz_submit_extract_revise.coverage" NAME="quiz_submit_extract_revise Coverage Results" MODIFIED="1530037735146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/quiz_data_extract" />
-    <SUITE FILE_PATH="coverage/User_Engagement$hierarchial_clustering.coverage" NAME="hierarchial_clustering Coverage Results" MODIFIED="1530044246352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
+    <SUITE FILE_PATH="coverage/User_Engagement$hierarchial_clustering.coverage" NAME="hierarchial_clustering Coverage Results" MODIFIED="1530081995102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$assignment_data.coverage" NAME="assignment_data Coverage Results" MODIFIED="1529956232930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/assignment" />
     <SUITE FILE_PATH="coverage/User_Engagement$mmtoc_clicks_revise.coverage" NAME="mmtoc_clicks_revise Coverage Results" MODIFIED="1530037753484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
     <SUITE FILE_PATH="coverage/User_Engagement$clustering.coverage" NAME="clustering Coverage Results" MODIFIED="1530041598786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
     <SUITE FILE_PATH="coverage/User_Engagement$discussion_data_revise.coverage" NAME="discussion_data_revise Coverage Results" MODIFIED="1530037765421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/discussion" />
-    <SUITE FILE_PATH="coverage/User_Engagement$multi_level_clustering.coverage" NAME="multi_level_clustering Coverage Results" MODIFIED="1530044400368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
+    <SUITE FILE_PATH="coverage/User_Engagement$multi_level_clustering.coverage" NAME="multi_level_clustering Coverage Results" MODIFIED="1530082770330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/data_processing" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$mmtoc_clicks.coverage" NAME="mmtoc_clicks Coverage Results" MODIFIED="1529957289736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/mmtoc" />
     <SUITE FILE_PATH="coverage/User_Engagement$video_data.coverage" NAME="video_data Coverage Results" MODIFIED="1530037367637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source/Data_Extraction/video_process" />
     <SUITE FILE_PATH="coverage/user_engagement_videoken$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1529955625479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
@@ -56,8 +44,8 @@
       <file leaf-file-name="multi_level_clustering.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/data_processing/multi_level_clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="216" column="50" lean-forward="true" selection-start-line="216" selection-start-column="50" selection-end-line="216" selection-end-column="50" />
+            <state relative-caret-position="157">
+              <caret line="206" column="50" lean-forward="true" selection-start-line="206" selection-start-column="50" selection-end-line="206" selection-end-column="50" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -68,8 +56,8 @@
       <file leaf-file-name="hierarchial_clustering.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="159" column="68" lean-forward="true" selection-start-line="159" selection-start-column="68" selection-end-line="159" selection-end-column="68" />
+            <state relative-caret-position="165">
+              <caret line="152" column="33" lean-forward="true" selection-start-line="152" selection-start-column="33" selection-end-line="152" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -85,6 +73,7 @@
       <find>e</find>
       <find>-</find>
       <find>print</find>
+      <find>count</find>
     </findStrings>
     <replaceStrings>
       <replace>$PROJECT_DIR$/../</replace>
@@ -121,6 +110,8 @@
         <option value="$PROJECT_DIR$/source/data_processing/clustering.py" />
         <option value="$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_clustering.csv" />
         <option value="$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py" />
+        <option value="$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_without_constraint_clustering.csv" />
+        <option value="$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_without_constraint_clustering.csv" />
         <option value="$PROJECT_DIR$/source/data_processing/multi_level_clustering.py" />
       </list>
     </option>
@@ -144,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,6 +198,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -402,52 +393,67 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2912736" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22860962" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.1485849" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32900944" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23472223" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2640625" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.37083334" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.4171875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23472223" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.37083334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.1485849" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2912736" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32900944" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2912736" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23472223" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2912736" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32900944" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="4" visible="true" weight="0.37083334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32900944" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -469,17 +475,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/mmtoc/mmtoc_clicks_revise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment_plot1/1083.png" />
     <entry file="file://$PROJECT_DIR$/source/Data_Extraction/assignment/assignment_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -580,18 +575,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/phrase_cloud_user_data1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14936" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19623">
-          <caret line="90" column="4" selection-start-line="90" selection-end-line="90" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/phrase_cloud_user_data1.csv" />
+    <entry file="file://$PROJECT_DIR$/source/Data_Extraction/video_process/video_data.csv" />
     <entry file="file://$PROJECT_DIR$/source/data_processing/test.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -634,9 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,18 +683,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
           <caret line="88" column="18" lean-forward="true" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_k_mean_clustering1.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_k_mean_clustering1.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_k_mean_clustering1.csv" />
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_k_mean_clustering1.csv" />
     <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_k_mean_clustering.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -723,24 +698,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_clustering.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_without_constraint_clustering.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_clustering.csv" />
     <entry file="file://$PROJECT_DIR$/source/data_processing/clustering.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
           <caret line="177" column="42" lean-forward="true" selection-start-line="155" selection-start-column="4" selection-end-line="177" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_without_constraint_clustering.csv">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_with_constraint_clustering.csv">
       <provider selected="true" editor-type-id="text-editor">
@@ -752,17 +716,45 @@
     <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_with_constraint_clustering.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_hierarchial_without_constraint_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_hierarchial_without_constraint_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/data_processing/hierarchial_clustering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="159" column="68" lean-forward="true" selection-start-line="159" selection-start-column="68" selection-end-line="159" selection-end-column="68" />
+        <state relative-caret-position="165">
+          <caret line="152" column="33" lean-forward="true" selection-start-line="152" selection-start-column="33" selection-end-line="152" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_non_video_multi_level_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="65" lean-forward="true" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/data_processing/mean_video_multi_level_clustering.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/data_processing/multi_level_clustering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="216" column="50" lean-forward="true" selection-start-line="216" selection-start-column="50" selection-end-line="216" selection-end-column="50" />
+        <state relative-caret-position="157">
+          <caret line="206" column="50" lean-forward="true" selection-start-line="206" selection-start-column="50" selection-end-line="206" selection-end-column="50" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
