@@ -4,8 +4,8 @@
 # License: BSD 3 clause
 
 print(__doc__)
-from matplotlib import style
-style.use("ggplot")
+#from matplotlib import style
+#style.use("ggplot")
 import time as time
 import numpy as np
 import json
@@ -143,15 +143,35 @@ for j in range(15, 40):
 
 # #############################################################################
 # Plot result
+
     colors = ["y.", "r.", "g.", "b.", "m.", "k."]
-
+    video_val = []
+    non_video_val = []
+    count = []
+    for index in range(0, 6):
+        video_val.append(0.0)
+        non_video_val.append(0.0)
+        count.append(0.0)
     for i in range(len(X)):
-   #print ("coordinate:" , X[i], "label:", labels[i])
-        plt.plot(X[i][0]*100, X[i][1]*100, colors[labels[i]], markersize=10)
+        # print ("coordinate:" , X[i], "label:", labels[i])
+        video_val[labels[i]] = video_val[labels[i]] + ((float)(X[i][0]) * 1000.0)
+        count[labels[i]] += 1.0
+        non_video_val[labels[i]] = non_video_val[labels[i]] + ((float)(X[i][1]) * 1000.0)
+        plt.plot(X[i][0], X[i][1], colors[labels[i]], markersize=10)
+    for index in range(0, 6):
+        if count[index] != 0.0:
+            video_val[index] = (video_val[index]) / count[index]
+            non_video_val[index] = (non_video_val[index]) / count[index]
+    with open('mean_video_hierarchial_without_constraint_clustering.csv', 'a') as file:
+        csv_writer = csv.writer(file)
+        csv_writer.writerow(video_val)
+    with open('mean_non_video_hierarchial_without_constraint_clustering.csv', 'a') as file:
+        csv_writer = csv.writer(file)
+        csv_writer.writerow(non_video_val)
 
-    plt.savefig("C:\Users\shubh\PycharmProjects\User_engagement\hierarchical_cluster_plot\cluster_without_constraint_"+str(j)+".png")
+    #plt.savefig("C:\Users\shubh\PycharmProjects\User_engagement\hierarchical_cluster_plot\cluster_without_constraint_"+str(j)+".png")
     plt.title('Hierarchical Without connectivity constraints (Users: %d)' % labels.size)
-    plt.show()
+    #plt.show()
     plt.clf()
 
 
@@ -174,12 +194,31 @@ for j in range(15, 40):
 # #############################################################################
 # Plot result
     colors = ["y.", "r.", "g.", "b.", "m.", "k."]
-
+    video_val = []
+    non_video_val = []
+    count = []
+    for index in range(0, 6):
+        video_val.append(0.0)
+        non_video_val.append(0.0)
+        count.append(0.0)
     for i in range(len(X)):
-   #print ("coordinate:" , X[i], "label:", labels[i])
+        # print ("coordinate:" , X[i], "label:", labels[i])
+        video_val[labels[i]] = video_val[labels[i]] + ((float)(X[i][0]) * 1000.0)
+        count[labels[i]] += 1.0
+        non_video_val[labels[i]] = non_video_val[labels[i]] + ((float)(X[i][1]) * 1000.0)
         plt.plot(X[i][0], X[i][1], colors[labels[i]], markersize=10)
+    for index in range(0, 6):
+        if count[index] != 0.0:
+            video_val[index] = (video_val[index]) / count[index]
+            non_video_val[index] = (non_video_val[index]) / count[index]
+    with open('mean_video_hierarchial_with_constraint_clustering.csv', 'a') as file:
+        csv_writer = csv.writer(file)
+        csv_writer.writerow(video_val)
+    with open('mean_non_video_hierarchial_with_constraint_clustering.csv', 'a') as file:
+        csv_writer = csv.writer(file)
+        csv_writer.writerow(non_video_val)
 
-    plt.savefig("C:\Users\shubh\PycharmProjects\User_engagement\hierarchical_cluster_plot\cluster_with_constraint_"+str(j)+".png")
+    #plt.savefig("C:\Users\shubh\PycharmProjects\User_engagement\hierarchical_cluster_plot\cluster_with_constraint_"+str(j)+".png")
     plt.title('Hierarchical With connectivity constraints (Users: %d)' % labels.size)
-    plt.show()
+    #plt.show()
     plt.clf()

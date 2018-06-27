@@ -58,7 +58,7 @@ def user_video_data():
                 value.append(0)
         plt.plot(key, value)
         # plt.show()
-        plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/video_watched_plot/" + users + ".png")
+        #plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/video_watched_plot/" + users + ".png")
         plt.clf()
     for users in Z1:
         key = user_data[users].keys()
@@ -72,7 +72,7 @@ def user_video_data():
                 value.append(0)
         plt.plot(key, value)
         # plt.show()
-        plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/video_time_plot/" + users + ".png")
+        #plt.savefig("/Users/shubham.bajpai/Documents/User_Engagement/video_time_plot/" + users + ".png")
         plt.clf()
     for users in Z1:
         key=user_data[users].keys()

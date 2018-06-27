@@ -1,10 +1,10 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import json
-from matplotlib import style
+#from matplotlib import style
 import csv
 import datetime
-style.use("ggplot")
+#style.use("ggplot")
 
 from sklearn.cluster import KMeans
 count=0
@@ -141,6 +141,16 @@ for j in range(15, 40):
         kmeans.fit(X)
         centroid = kmeans.cluster_centers_
         labels = kmeans.labels_
+        video_val = []
+        non_video_val = []
+        count_nv = []
+        count_v = []
+        for index in range(0, 2):
+            video_val.append(0.0)
+            count_v.append(0.0)
+        for index in range(0, 3):
+            non_video_val.append(0.0)
+            count_nv.append(0.0)
         #print labels
         set1 = []
         set2 = []
@@ -151,12 +161,21 @@ for j in range(15, 40):
             if labels[user] == 0:
                 set1.append(week_data[j-15][user])
                 setv1.append(video_week_data[j-15][user])
-
+                video_val[0]=video_val[0]+((float)(video_week_data[j-15][user])*100.0)
+                count_v[0]+=1.0
                 #print set1
             else:
                 set2.append(week_data[j-15][user])
                 setv2.append(video_week_data[j-15][user])
+                video_val[1] = video_val[1] + ((float)(video_week_data[j - 15][user]) * 100.0)
+                count_v[1]+=1.0
         #print float(video_week_data[15][user][0]+video_week_data[15][user][1])
+        for index in range(0, 2):
+            if count[index] != 0.0:
+                video_val[index] = (video_val[index]) / count[index]
+        with open('mean_video_hierarchial_with_constraint_clustering.csv', 'a') as file:
+            csv_writer = csv.writer(file)
+            csv_writer.writerow(video_val)
         X = np.array(set1)
        # print X
         Y = np.array(set2)
