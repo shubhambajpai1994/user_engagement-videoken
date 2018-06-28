@@ -53,7 +53,7 @@ for i in range(0,6):
     Y.append(26)
     plt.plot(Y,X, color = colors[i])
 plt.title("K_mean_non_video")
-plt.savefig('/Users/shubham.bajpai/Documents/User_Engagement/source/data_processing/mean_multi_level_non_video.png')
+plt.savefig('/Users/shubham.bajpai/Documents/User_Engagement/source/data_processing/mean_k_mean_non_video.png')
 
 plt.show()
 plt.clf()
