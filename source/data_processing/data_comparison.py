@@ -148,7 +148,7 @@ for i in range(0,6):
     plt.plot(Y,X, color = colors[2])
     X = []
     Y = []
-    for j in range(0,25):G
+    for j in range(0,25):
         X.append(non_video3[j][i])
         Y.append(j)
     X.append(0)
